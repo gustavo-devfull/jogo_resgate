@@ -1,2 +1,5 @@
 # jogo_resgate
-Jogo da velha feito na aula Criando seu próprio jogo da Velha com HTML, CSS e Javascript  jogoDaVelha link para o jogo online:  https://gustavosantos.xyz/jogodavelha/
+Jogo de Resgate feito na aula Construindo o seu primeiro jogo de naves com HTML, CSS e Javascript  
+
+link para o jogo online:  
+https://gustavosantos.xyz/resgate/
